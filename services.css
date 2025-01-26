@@ -1,0 +1,56 @@
+.body{ background-size: 100% 50%;image-resolution: 100%;padding-left: 50px;
+padding-right: 50px;padding-bottom: 100px;background-image:url(photos/blue.jpeg) ;}
+
+.proffesional-p{color:white;font-size: 100px;text-align: center;margin-bottom: 60px;}
+
+.branding-icon{display: block;width: 100%;margin-bottom: 75px;}
+.branding-span{color: aliceblue;font-size: 50px;margin-left: 50px;}
+.quality-icon{width: 100%;}
+.quality-span{color: aliceblue;font-size: 50px;margin-left: 90px;}
+.design-icon{width: 100%;}
+.design-span{color: aliceblue;font-size: 50px;margin-left: 110px;}
+.creativity-icon{width: 70%;margin-left: 30px;}
+.creativity-span{color: aliceblue;font-size: 50px;margin-left: 65px;}  
+
+
+
+.pro-sloogans{color: #f8f6f6;text-align: center;font-size: 25px;font-family: Arial, Helvetica, sans-serif;
+    color: rgb(24, 24, 61);}
+.pro-sloogans-div{width: 1000px;margin: auto;margin-bottom: 150px;background-color: rgb(240, 240, 245);
+border-radius: 15px;box-shadow:10px 10px 10px rgba(188, 185, 185, 0.97);margin-top: 15px;
+padding:0.1%}
+
+
+.back-to-home-page-button{font-size: 25px;border-radius:10px;margin-left: 20px;margin-top: 20px;cursor: pointer;  
+    background-color: rgb(58, 5, 215);color: white;padding:10px ;padding-right: 50px;padding-left: 50px;}
+    .back-to-home-page-button:hover{background-color: rgba(245, 245, 245, 0);transition: 0.15s;
+        box-shadow: 5px 5px 15px rgb(249, 249, 249);}  
+
+    .back-to-home-page-a{color: whitesmoke;text-decoration: none;} 
+
+    .services-main-grid{display: grid;grid-template-columns: 1fr 1fr 1fr 1fr;row-gap: 10px;margin-bottom: 30px;
+       } 
+    .column1{height: 200px;width: 200px;margin-left: 100px;}
+    .column2{height: 200px;width: 200px;margin-left: 120px;} 
+    .column3{height: 200px;width: 200px;margin-left: 120px;}
+    .column4{height: 200px;width: 200px;margin-left: 120px;}
+    .row1{height: 100px;}
+    
+   
+
+    .services-paragraph{color: whitesmoke;font-size: large;font-family:Arial, Helvetica, sans-serif}
+   .contact-us-services-a{text-decoration: none;color: rgb(240, 240, 242);}
+   .contact-us-services-a:hover{color: rgb(237, 237, 241);}
+   
+   .Contact-us-services-button:hover{background-color: rgba(255, 255, 255, 0);color: blue;} 
+   .Contact-us-services-button{font-size: 30px;background-color: rgb(2, 2, 252);color: white;border-radius: 15px;
+    padding:10px;padding-left:20px;padding-right:20px;margin-left: 45%;box-shadow: 5px 5px 15px rgba(23, 1, 1, 0.723);transition: 0.15s;} 
+    
+
+    
+
+    
+
+
+
+

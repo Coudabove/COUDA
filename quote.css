@@ -1,0 +1,50 @@
+.quote-main-div{background-color: rgba(0, 0, 0, 0.236);width: 100%;} 
+.quote-main-div-info{width: 90%;margin: auto;border-style: solid;}  
+.hr-line{height: 1px;background-color: brown;}
+.request-h1{text-align: center;font-size: 45px;}
+.request-p{text-align: center;font-size: 20px;}
+.send-me-p{font-size: 30px;text-align: center;}
+.inputs-div{margin: auto;width: 1100px;height: 1500px;}
+.checkboxes-div{display: grid;grid-template-columns: 1fr 1fr;row-gap: 30px;}
+
+.checkbox-e{width: 25px;height: 25px;margin-right: 10px;}
+.checkbox-i{width: 25px;height: 25px;margin-right: 10px;}
+.checkbox-m{width: 25px;height: 25px;margin-right: 10px;}
+.checkbox-o{width: 25px;height: 25px;margin-right: 10px;}
+.e-span{font-size: 25px;}
+.i-span{font-size: 25px;}
+.m-span{font-size: 25px;}
+.o-span{font-size: 25px;}
+.checkbox-e-div{width: 200px;margin: auto;}
+.checkbox-i-div{width: 200px;margin: auto;} 
+.checkbox-m-div{width: 200px;margin: auto;}
+.checkbox-o-div{width: 200px;margin: auto;} 
+.provide-us-p{font-size: 30px;margin-top: 100px;margin-left: 50px;}
+.Provide-us-text-area{height: 200px;width: 1000px;background-color: rgba(208, 218, 231, 0.849);resize: none;
+    margin-left: 50px;border-style:solid;border-radius: 10px;border-color: rgba(0, 0, 0, 0);}
+.pleaseindicate-p{font-size: 30px;margin-top: 100px;margin-left: 50px;}
+.select{width: 1000px;height: 40px;margin-left: 50px;padding-left: 5px;
+    background-color: rgba(208, 218, 231, 0.849);font-size: large;margin-top: -20px;}
+    .select-estimate-p{font-size: 30px;margin-top: 50px;margin-left: 50px;}
+    .orupload-p{font-size: 30px;margin-top: 50px;margin-left: 50px;}
+    .dateandtime-input{width: 1000px;height: 40px;margin-left: 50px;padding-left: 5px;
+        background-color: rgba(208, 218, 231, 0.849);font-size: 20px;margin-top: -20px;}
+    .upload-file-button{font-size: larger;margin-left: 50px;margin-top: -20px;background-color: rgba(208, 218, 231, 0.849)}
+    .contact-form-h3{margin-left: 50px;font-size: 30px;margin-bottom: 10px;margin-top: 50px;}
+.container{margin-left: 50px;font-size: 25px;}
+.fname-label{height: 30px;vertical-align: bottom;margin-left: 40px;font-size: 20px;margin-right: 25px;width: 300px;border-radius: 5px;
+border-style: none;background-color: rgba(208, 218, 231, 0.849)}
+.phone-number-label{height: 30px;vertical-align: bottom;margin-left: 8px;font-size: 20px;margin-right: 25px;
+    margin-top: 10px;width: 300px;border-style: none;border-radius: 5px;background-color: rgba(208, 218, 231, 0.849)}
+.email-label{border-style: none;border-radius: 5px;height: 30px;vertical-align: bottom;margin-left: 8px;
+    font-size: 20px;margin-right: 25px;margin-top: 10px;width: 300px;background-color: rgba(208, 218, 231, 0.849);}
+.submit-input-button{height: 60px;width: 600px;font-size: 40px;margin-left: 200px;margin-top: 35px;border-radius: 10px;
+    background-color: blue;color: whitesmoke;padding-top: 5px;padding-bottom: 15px;transition: 0.25s;}
+    .submit-input-button:hover{color:rgb(194, 199, 201);background-color: darkgreen;}
+    .back-to-home-page-button{padding: 10px;border-radius: 5px;border-style: none;
+        margin-left: 400px;margin-top: 40px;transition: 0.20s;background-color: blue;
+        padding-left: 40px;padding-right: 20px;}
+    .Backtohomepage-button-a{font-size: 25px;text-decoration:double;color: aliceblue;}
+   
+    .back-to-home-page-button:hover{background-color: rgb(124, 173, 237);}
+     

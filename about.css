@@ -1,0 +1,7 @@
+.about-body{background-image: url(photos/blue.jpeg);padding-top: 100px;}
+.about-header-div{background-color: rgb(11, 7, 0);position: fixed;left: 50px;right: 50px;
+    display: flex;justify-content: center;z-index: 100;height: 200px;}
+    .about-main-div{background-color: aqua;position: absolute;height: 1000px;top: 100px;left: 50px;right: 50px;}
+    .falling-snow-div{height: 200px;position: relative;}
+    .falling-snow-video{height: 200px;pointer-events: none;}
+    .about-us-tooltip{position: absolute;color: aliceblue;font-size: 120px;top: 40px;left: 400px;} 
